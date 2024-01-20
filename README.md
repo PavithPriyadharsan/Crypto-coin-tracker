@@ -6,7 +6,7 @@ I have created a crypto-coin tracker using :
  - Public API from Coinbase (crypto API)
 
 
-**About**
+**About** : 
 In this website, we can select any type of coin from the listed and analyse the following:
 - Currect price
 - Volume
